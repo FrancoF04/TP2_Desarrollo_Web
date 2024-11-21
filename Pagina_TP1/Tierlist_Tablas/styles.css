@@ -1,0 +1,49 @@
+body{
+    background-color: #FAF3E6;
+}
+
+th{
+    width: 100px;
+    height: 120px;
+}
+
+table{
+    margin: auto;
+    width: 500px;
+}
+
+img{
+    height: 100px; 
+    margin: 0 10px 0 10px;
+}
+
+.primer_tier_s{
+    height: 100px;
+    margin: 0;
+}
+
+.primer_tier_a{
+    height: 100px;
+    margin: 0;
+}
+
+.titulo_ppal{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.tier_s{
+    background-color: #FC6A8D;
+}
+
+.tier_a{
+    background-color: #FEBF84;
+}
+
+.tier_b{
+    background-color: #FEBE32;
+}
+
+.tier_c{
+    background-color: #55AA61;
+}

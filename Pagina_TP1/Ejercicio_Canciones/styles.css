@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: #FAF3E6;
+}
+
+.titulo{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.letra{
+    font-size: large;
+    width: 400px;
+}
+
+.container_letra{
+    display: flex;
+    justify-content: center;
+}

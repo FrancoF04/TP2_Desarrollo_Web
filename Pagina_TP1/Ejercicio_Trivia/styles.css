@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    background-color: #FAF3E6;
+}
+img{
+    max-height: 300px;
+    max-width: 600px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.titulo_bienvenida{
+    margin-bottom: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.pregunta_ppal{
+    margin-bottom: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.titulo_ppal{
+    margin-bottom: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.imagen_victoria{
+    margin: 0;
+    width: auto;
+    height: 600px;
+    margin-bottom: 40px;
+}
+.boton_inicio{
+    display: block;
+    text-decoration: none;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+.imagen_derrota{
+    margin: 0;
+    width: auto;
+    height: 400px;
+    margin-bottom: 40px;
+}
